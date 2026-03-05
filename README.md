@@ -23,7 +23,13 @@ Qualidade & Segurança: Auditorias rigorosas de segurança (0 Vulnerabilidades C
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br />
 
+### 📊 Minhas Estatísticas no GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WevertonWe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonWe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WevertonWe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Weverton" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonWe&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" alt="Linguagens mais utilizadas" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WevertonWe&theme=dracula" alt="Sequência de contribuições" />
 </div>
