@@ -24,12 +24,11 @@ Qualidade & Segurança: Auditorias rigorosas de segurança (0 Vulnerabilidades C
 </div><br />
 
 ### 📊 Minhas Estatísticas no GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WevertonWe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Weverton" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonWe&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" alt="Linguagens mais utilizadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WevertonWe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonWe&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WevertonWe&theme=dracula" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WevertonWe&theme=tokyonight" alt="Sequência de contribuições" />
 </div>
