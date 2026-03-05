@@ -3,10 +3,17 @@
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](75988241848)
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weverton-wilson/)
 
+Olá! Eu sou o Weverton Wilson 👋
+Desenvolvedor Python | Especialista em Automação & IA
 
-![WevertonWe GitHub stats](https://github-readme-stats.vercel.app/api?username=WevertonWe&show_icons=true&theme=dracula)
+Transformo processos manuais exaustivos em fluxos digitais de alta performance. Recentemente, desenvolvi o Agendha, uma plataforma que utiliza Google Gemini AI para automação de OCR e processamento de dados, atingindo conformidade total em segurança e UX.
 
-## Tecnologias que eu uso no meu dia a dia
+🚀 O que eu trago para a mesa:
+Backend & Automação: Criação de APIs robustas com FastAPI e arquiteturas Zero-Trust.
+Inteligência Artificial: Integração estratégica de LLMs para extração e análise de dados.
+Qualidade & Segurança: Auditorias rigorosas de segurança (0 Vulnerabilidades Críticas) e UX auditada.
+
+🛠️ Tecnologias que domino no dia a dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,6 +23,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonWe&layout=compact)
-
-Sou Desenvolvedor, Analista de Dados e de Automação, formado em Sistemas de Informação e movido pela paixãode resolver problemas complexos através da tecnologia. Meu foco é traduzir necessidades de negócio em soluções eficientes. Tenho experiência prática em desenvolver aplicações web, automatizar tarefas manuais e otimizar a experiência do usuário (UX) — habilidade que aprofundei em meu projeto de conclusão de curso, onde realizei um estudo de caso completo sobre a usabilidade do aplicativo da faculdade UniRios. Atualmente, estou aplicando meu conhecimento em um projeto de OCR (Reconhecimento Óptico de Caracteres) com Python, criado para automatizar a extração de dados de formulários e solucionar um desafio real de trabalho manual no meu dia a dia. Busco uma oportunidade desafiadora para aplicar minhas habilidades, colaborar com uma equipe de desenvolvimento e crescer profissionalmente na área de tecnologia.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WevertonWe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonWe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
